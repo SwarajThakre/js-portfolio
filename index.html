@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My JS Projects | Developer Portfolio</title>
+    <meta name="description" content="Collection of my JavaScript projects" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <header class="glass-header">
+      <div class="header-content">
+        <div class="logo-container">
+          <span class="js-logo">
+            <i class="fab fa-js-square"></i>
+          </span>
+          <div class="typed-text-container">
+            <span class="typed-text"></span>
+            <span class="cursor">&nbsp;</span>
+          </div>
+        </div>
+        <nav>
+          <ul>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="hero-content">
+          <h1>JavaScript <span class="highlight">Projects</span></h1>
+          <p>A collection of my work showcasing modern JavaScript techniques</p>
+          <a href="#projects" class="cta-button">Explore Projects</a>
+        </div>
+        <div class="hero-code">
+          <div class="code-window">
+            <div class="code-header">
+              <span class="dot red"></span>
+              <span class="dot yellow"></span>
+              <span class="dot green"></span>
+            </div>
+            <pre><code class="language-javascript">// Welcome to my JS portfolio
+const creativity = new Innovation();
+const skills = ['ES6+', 'React', 'Node.js', 'Nextjs'];
+
+function buildProjects() {
+    return amazingExperiences();
+}</code></pre>
+          </div>
+        </div>
+      </section>
+
+      <section id="projects" class="projects-section">
+        <h2>Featured <span class="highlight">Projects</span></h2>
+        <div class="projects-grid" id="projects-container">
+          <!-- Projects will be injected here by JavaScript -->
+        </div>
+      </section>
+
+      <section id="about" class="about-section">
+        <div class="about-content">
+          <h2>About <span class="highlight">Me</span></h2>
+          <p>
+            I'm a passionate JavaScript developer dedicated to creating
+            interactive and performant web applications. This portfolio
+            showcases my journey through various frameworks, libraries, and
+            vanilla JS projects.
+          </p>
+          <div class="skills">
+            <h3>Core Skills</h3>
+            <div class="skill-tags">
+              <span>JavaScript</span>
+              <span>React</span>
+              <span>Node.js</span>
+              <span>HTML5</span>
+              <span>CSS3</span>
+              <span>Git</span>
+            </div>
+          </div>
+        </div>
+        <div class="about-image">
+          <div class="floating-icons">
+            <i class="fab fa-js"></i>
+            <i class="fab fa-react"></i>
+            <i class="fab fa-node-js"></i>
+            <i class="fab fa-html5"></i>
+            <i class="fab fa-css3-alt"></i>
+            <i class="fab fa-git"></i>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer id="contact" class="footer">
+      <div class="footer-content">
+        <div class="footer-logo">
+          <span>
+            <i class="fab fa-js-square"></i>
+          </span>
+          <p>JavaScript Projects Portfolio</p>
+        </div>
+        <div class="footer-text">
+          <p>
+            Thank you for visiting my JavaScript portfolio! If you have any
+            questions or would like to collaborate, please don't hesitate to
+            contact me on social media.
+          </p>
+        </div>
+        <div class="social-links">
+          <a href="#" aria-label="GitHub"><i class="fab fa-github"></i></a>
+          <a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+          <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+          <a href="#" aria-label="Email"><i class="fas fa-envelope"></i></a>
+        </div>
+      </div>
+      <div class="copyright">
+        <p>&copy; <span id="year"></span> All Rights Reserved</p>
+      </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+  </body>
+</html>
