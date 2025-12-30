@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', function () {
       description: 'Get current currency rates and convert between currencies',
       tags: ['API', 'Async/Await', 'DOM Manipulation', 'Event Handling'],
       image: './assets/images/forrates.png',
-      demoUrl: 'https://forates.netlify.app',
+      demoUrl: 'https://globexrates.netlify.app/',
       codeUrl: 'https://github.com/SwarajThakre/forex_sites',
     },
   ];
