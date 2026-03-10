@@ -64,8 +64,8 @@ Visit the live portfolio:
 To run the project locally:
 
 ```bash id="2emh5c"
-git clone https://github.com/SwarajThakre/js-projects-portfolio.git
-cd js-projects-portfolio
+git clone https://github.com/SwarajThakre/js-portfolio.git
+cd js-portfolio
 ```
 
 Then open **index.html** in your browser.
