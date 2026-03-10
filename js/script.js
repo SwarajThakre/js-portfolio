@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', function () {
       image: './assets/images/ecomm.png',
       demoUrl: 'https://wood-ecomm-site.netlify.app',
       codeUrl:
-        'https://github.com/SwarajThakre/Js_Projects/tree/main/Ecommerce-Website',
+        'https://github.com/SwarajThakre/Simple-Ecom-Website-Using-Html-CSS-and-Js',
     },
     {
       title: 'Weather App',
