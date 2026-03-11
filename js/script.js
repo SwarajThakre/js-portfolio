@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', function () {
       image: './assets/images/weather-site.png',
       demoUrl: 'https://weather-report-sites.netlify.app',
       codeUrl:
-        'https://github.com/SwarajThakre/Js_Projects/tree/main/Weather_site',
+        'https://github.com/SwarajThakre/Weather_forecast',
     },
     {
       title: 'To-Do List',
@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function () {
       image: './assets/images/to-do.png',
       demoUrl: 'https://yours-todo-lists.netlify.app',
       codeUrl:
-        'https://github.com/SwarajThakre/Js_Projects/tree/main/To-do-List',
+        'https://github.com/SwarajThakre/To-do',
     },
     {
       title: 'Quiz Game',
@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', function () {
       tags: ['JavaScript', 'DOM Manipulation', 'Game Logic'],
       image: './assets/images/quiz.png',
       demoUrl: 'https://quiz-sitte.netlify.app',
-      codeUrl: 'https://github.com/SwarajThakre/Js_Projects/tree/main/Quiz-app',
+      codeUrl: 'https://github.com/SwarajThakre/Quiz-web',
     },
     {
       title: 'Expense Tracking',
@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function () {
       image: './assets/images/expense.png',
       demoUrl: 'https://aexpenses-track.netlify.app',
       codeUrl:
-        'https://github.com/SwarajThakre/Js_Projects/tree/main/expense_tracker',
+        'https://github.com/SwarajThakre/Expense_Tracker',
     },
     {
       title: 'Forex converter app',
