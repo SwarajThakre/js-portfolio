@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function () {
       tags: ['API', 'Async/Await', 'DOM Manipulation', 'Event Handling'],
       image: './assets/images/forrates.png',
       demoUrl: 'https://globexrates.netlify.app/',
-      codeUrl: 'https://github.com/SwarajThakre/forex_sites',
+      codeUrl: 'https://github.com/SwarajThakre/globexrates',
     },
   ];
 
